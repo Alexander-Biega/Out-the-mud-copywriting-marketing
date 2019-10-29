@@ -1,2 +1,2 @@
-# Out-the-mud-copywriting-marketing
+# copywriting-marketing
 I'm using GitHub Pages for my portfolio. 
